@@ -13,8 +13,8 @@ public abstract class BoardGUICell extends JButton {
 	private static final long serialVersionUID = 1622411001420791926L;
 	private static final Color INITIALIZED = new Color(140, 140, 140);
 	private static final Color INITIALIZED_SHIP = new Color(100, 100, 240);
-	private static final Color MISS = new Color(240, 100, 100);
-	private static final Color HIT = new Color(100, 240, 100);
+	private static final Color MISS = new Color(169, 241, 255);
+	private static final Color HIT = new Color(240, 100, 100);
 	
 	private Coordinate coordinate;
 	
